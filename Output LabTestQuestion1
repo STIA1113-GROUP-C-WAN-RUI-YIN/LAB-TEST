@@ -1,0 +1,18 @@
+The maximum number of item is 3.
+Please enter the number of items        : 4
+The maximum number of item is 3.
+Please re-enter the number of items     : 3
+Enter the price of item 1               : RM150
+Please enter the quantity of item 1     : 2
+Enter the price of item 2               : RM50
+Please enter the quantity of item 2     : 3
+Enter the price of item 3               : RM30
+Please enter the quantity of item 3     : 1
+
+Congratulations, you are entitled for 20% discount. 
+The total price before discount       : RM480.00
+The discount recieved is 20%.
+The discount price                    : RM96.00
+The total amount that need to be paid : RM384.00
+
+The total amount that need to be paid : RM384.00
